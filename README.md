@@ -1,4 +1,5 @@
 # mediaLab2
+tested on firefox, chrome
 
 This lab aims to build your first Virtual reality (VR) app.
 
